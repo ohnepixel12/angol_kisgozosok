@@ -12,9 +12,9 @@ body{
 nav{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    border: 2px white solid;
     background-color:rgb(68, 68, 68);
     gap:10px;
+    padding: 10px;
 }
 
 a{
@@ -23,6 +23,7 @@ a{
     grid-template-columns: 1fr 1fr;
     border: 2px white solid;
     text-decoration: none;
+    padding: 10px;
 }
 
 img{
